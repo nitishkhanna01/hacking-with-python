@@ -29,6 +29,10 @@ This tool uses "socket" library and "nmap" module of python to scan open ports a
 To run this just use following command
 
 ``` bash
+pip install python-nmap
+```
+
+``` bash
 python3 advance-port-scan.py
 ```
 - After running this it will ask you for target domain or target ip any of your choice.
