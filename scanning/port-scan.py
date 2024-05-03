@@ -13,10 +13,22 @@ try:
 except socket.error:
     address = socket.gethostbyname(domain)
 
+start =input(("Enter Starting Port (BY DEFAULT = 1): "))
+if start == "":
+    start = 1
+else:
+    start = int(start)
+end =input(("Enter Ending Port (BY DEFAULT = 1024): "))
+if end =="":
+    end = 1024
+else:
+    end = int(end)
+
+
 try:
     print("Scanning started at " + address + " ....")
     print("PORT     Service  Status")
-    for port in range(1, 65535):
+    for port in range(start, end):
         so = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
         result = so.connect_ex((address, port))
         if result == 0:
