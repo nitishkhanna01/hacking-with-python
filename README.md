@@ -11,5 +11,5 @@ This repo contain tools on following topics:
 
 I have added readme file in each tool directory for helping you out with steps.
 
-Follow me on LinkedIN for updates and support:
+# Follow me on LinkedIN for updates and support:
 [Nitish Khanna](www.linkedin.com/in/nitishkhanna01)
