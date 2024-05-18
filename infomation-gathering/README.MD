@@ -17,6 +17,6 @@ python3 whoislookup.py
 - Just need to enter domain name and options to store output or not it will work automatically
 
 # Follow me on LinkedIN for updates and support:
-[Nitish Khanna](www.linkedin.com/in/nitishkhanna01)
+[Nitish Khanna](https://www.linkedin.com/in/nitishkhanna01/)
 
 
