@@ -18,4 +18,4 @@ python3 run-on-target.py
 ```
 - Once connection successful you will be able to run all shell commands 
 # Follow me on LinkedIN for updates and support:
-[Nitish Khanna](www.linkedin.com/in/nitishkhanna01)
+[Nitish Khanna](https://www.linkedin.com/in/nitishkhanna01/)
