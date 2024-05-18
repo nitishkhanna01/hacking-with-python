@@ -17,4 +17,4 @@ git clone https://github.com/nitishkhanna01/hacking-with-python.git
 ```
 
 # Follow me on LinkedIN for updates and support:
-[Nitish Khanna](www.linkedin.com/in/nitishkhanna01)
+[Nitish Khanna](https://www.linkedin.com/in/nitishkhanna01/)
