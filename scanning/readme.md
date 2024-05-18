@@ -43,6 +43,6 @@ python3 advance-port-scan.py
 
 
 # Follow me on LinkedIN for updates and support:
-[Nitish Khanna](www.linkedin.com/in/nitishkhanna01)
+[Nitish Khanna](https://www.linkedin.com/in/nitishkhanna01/)
 
 
